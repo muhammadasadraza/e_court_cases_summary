@@ -40,7 +40,7 @@ pip install PyPDF2 pandas openpyxl
 ### How to Run
 1. **Clone this Repository**
    ```bash
-   git clone https://github.com/yourusername/e_court_cases_summary.git
+   git clone https://github.com/muhammadasadraza/e_court_cases_summary.git
    cd e_court_cases_summary
    ```
 
